@@ -74,21 +74,8 @@ class MemoryBuffer:
 
 
 
-
-
-
 def distillation_loss(outputs, teacher_outputs, T=2.0):
     """Knowledge Distillation Loss"""
     soft_targets = nn.functional.softmax(teacher_outputs / T, dim=1)
     soft_prob = nn.functional.log_softmax(outputs / T, dim=1)
     return nn.KLDivLoss(reduction='batchmean')(soft_prob, soft_targets) * (T * T)
-
-
-def incremental_learning():
-    """# Main incremental learning procedure"""
-    
-    
-    # Training parameters
-    
-    
-    return model, accuracy_matrix
