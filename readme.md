@@ -51,7 +51,7 @@ class MemoryBuffer:
 ```
 
 Key characteristics of the replay mechanism:
-- Maintains a fixed-size memory buffer (2000 samples)
+- Maintains a fixed-size memory buffer (200 samples)
 - Stores a balanced set of examples per class (up to 20 samples per class)
 - Randomly selects samples when buffer capacity is exceeded
 - Integrates memory samples with current task data during training
