@@ -100,12 +100,17 @@ The visualizations reveal:
 - Which classes/tasks are most susceptible to forgetting
 - The effectiveness of the combined approach compared to using either technique alone
 
+![My Image](accuracy_by_task.png)
+
+
 ## Applications and Future Work
 
 This approach to continual learning has practical applications in:
 - Autonomous vehicles that must adapt to new traffic signs
 - Smart city infrastructure with evolving signage regulations
 - Any vision system that requires incremental updating
+
+
 
 Future work could explore:
 - Parameter-efficient fine-tuning to reduce memory requirements
