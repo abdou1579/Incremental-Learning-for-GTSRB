@@ -111,12 +111,13 @@ This approach to continual learning has practical applications in:
 - Any vision system that requires incremental updating
 
 
-Contributions :
-
-
-[<img src="https://github.com/abdou1579.png" width="60px;"/><br /><sub><ahref="https://github.com/abdou1579">abdou1579</a></sub>](https://github.com/abdou1579/Incremental-Learning-for-GTSRB
-
 Future work could explore:
 - Parameter-efficient fine-tuning to reduce memory requirements
 - More sophisticated memory management strategies
 - Integration with self-supervised learning for better feature representation
+
+## Contributors
+
+[![Abdelbaki GUIR](https://github.com/abdou1579.png)](https://github.com/abdou1579)
+[![Omar MAMECHE](https://github.com/mandom-s.png)](https://github.com/mandom-s)
+
