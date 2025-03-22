@@ -9,7 +9,7 @@ import random
 
 
 # Model architecture
-"""Mode Architecture, for features extration """
+"""Model Architecture, for features extration """
 class GTSRB_extractor(nn.Module):
     def __init__(self, num_classes=43):
         super(GTSRB_extractor, self).__init__()
