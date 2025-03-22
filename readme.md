@@ -118,14 +118,12 @@ Future work could explore:
 
 ## Contributors
 
-[![Abdelbaki GUIR](https://github.com/abdou1579.png)](https://github.com/abdou1579)
-[![Omar MAMECHE](https://github.com/mandom-s.png)](https://github.com/mandom-s)
-
-
 <a href="https://github.com/abdou1579">
   <img src="https://github.com/abdou1579.png" width="100" alt="Abdelbaki GUIR"/>
 </a>
 <a href="https://github.com/mandom-s">
   <img src="https://github.com/mandom-s.png" width="100" alt="Omar MAMECHE"/>
 </a>
+
+and **Taqwa MEZAACHE**
 
